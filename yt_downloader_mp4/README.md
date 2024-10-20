@@ -12,6 +12,10 @@ Ok first things first download the yt_donload script and open it on terminal, Vs
 
 ![image](https://github.com/user-attachments/assets/3780dc42-cc23-4ac7-985d-5382eefb5668)
 
+Then open file and edit in the yvid.download() to route it too which directyory you want to place you file in
+
+![image](https://github.com/user-attachments/assets/b6ae229d-4c17-4449-9a9e-74c7ca73e320)
+
 
 
 
