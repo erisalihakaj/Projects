@@ -8,6 +8,11 @@ Downloading videos is not exactly free. You need YouTube Premium for it!
 This project aims to solve the problem of paying for YouTube Premium in order to download videos with a simple script.
 
 
-Ok first things first download the script and open it on terminal, Vs code etc..
+Ok first things first download the yt_donload script and open it on terminal, Vs code etc..
+
+![image](https://github.com/user-attachments/assets/3780dc42-cc23-4ac7-985d-5382eefb5668)
+
+
+
 
 
