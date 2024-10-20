@@ -38,6 +38,8 @@ Here are some images on my project
 
 
 ![image](https://github.com/user-attachments/assets/a076ea0b-dfde-4c54-968d-ad17ede46615)
+
+
 To run this project, you need to download the file highlighted in yellow:
 
 ![image](https://github.com/user-attachments/assets/75189528-4b55-48f6-98fd-a3f4af5e23c8)
@@ -47,6 +49,8 @@ Next, open Visual Studio Code or any other text editor of your choice. For this 
 Click the Open File button to load the project:
 
 ![image](https://github.com/user-attachments/assets/75189528-4b55-48f6-98fd-a3f4af5e23c8)
+
+
 
 Once the files are loaded, locate the Start Debugging button in the top left corner of Visual Studio Code:
 
