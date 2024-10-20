@@ -39,4 +39,6 @@ information such as the current price the most recent news and a prediction for 
 
 ![image](https://github.com/user-attachments/assets/21668207-6600-4358-8000-784a27995d5f)
 
+Now you can enjoy having fast access to the stocks you are looking for with a prediction on tomorrow's value on a stock
 
+Update:(Currently the link where I have web scarped the data for the prediction model is down due to maintenance once it is back up I will re-add the historical values scraped from the web so the charts and the prediction model will be hard coded until maintenance is finished other than that it should be fine)
