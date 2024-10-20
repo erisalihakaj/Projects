@@ -171,7 +171,8 @@ while terminate != True:
         
 
         if tok == False:
-            print(f'\nOk thats done. What will you say you placed? Last placed card: {card_called} x {last_placed_quantiy}.')      # using method find what is before and after the card called. find the index in the list of the card called and then to find the rest index + 1 and -1 but if it is the last number it goes back too 1
+            print(f'\nOk thats done. What will you say you placed? Last placed card: {card_called} x {last_placed_quantiy}.')      # Using method find what is before and after the card called. 
+                                                                                                                                   # find the index in the list of the card called and then to find the rest index + 1 and -1 but if it is the last number it goes back too 1
             if card_called != "Nothing" and card_called != "A":
                 print(f'Note: Place a card higher or lower then the last card placed! --> Cards you can place: {type_of_cards[(type_of_cards.index(card_called) - 1)]}, {type_of_cards[type_of_cards.index(card_called)]}, {type_of_cards[(type_of_cards.index(card_called) + 1)]}\n')
             elif card_called == "A":
@@ -189,7 +190,7 @@ while terminate != True:
 
 
         # response
-            if response == "Y" or response == "y":          # using response varible to waste less memory
+            if response == "Y" or response == "y":   
                 print(f'Who calls BS?')
 
                 response = sys.stdin.readline().strip()
@@ -225,16 +226,3 @@ while terminate != True:
     
         if terminate == True:
             break
-
-
-
-
-# bug it removes 2 jacks when i specify 1
-
-
-
-#To Do list
-
-# fix the programand use a key word to execute it
-# use the rest of the deck too darw cards from it
-# make a functiong ui soon 
