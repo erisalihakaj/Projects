@@ -14,11 +14,29 @@ First Press The Open File button and load up the project
 
 ![image](https://github.com/user-attachments/assets/d6d3bd21-e4dd-44a0-ab85-bf3f33f79763)
 
-then once the files are loaded, find the start debugging button on the top left of Visual Studio Code
+Then once the files are loaded, find the start debugging button on the top left of Visual Studio Code
 
 ![Screenshot (160)](https://github.com/user-attachments/assets/3a7ec76e-a295-4087-82a3-f98656777955)
 
-then go into terminal and find the link to the website highlighted in red
+Then go into the terminal and find the link to the website highlighted in red
 
 ![Capture22](https://github.com/user-attachments/assets/c36b6040-d78c-434c-a70e-404fdf577c88)
+
+
+
+
+
+Once you have opened it it should look like this!
+
+![image](https://github.com/user-attachments/assets/317135c2-2f85-4d0b-8be2-2a5c97425966)
+
+Then go ahead and type a stock symbol. 
+Note: (Make sure it is the exact initials otherwise it will be unable to provide a result for that stock)
+
+
+As you can see in this following example we type in the stock for Apple(AAPL) and it returns us 
+information such as the current price the most recent news and a prediction for tomorrow's value
+
+![image](https://github.com/user-attachments/assets/21668207-6600-4358-8000-784a27995d5f)
+
 
