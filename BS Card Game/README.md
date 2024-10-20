@@ -79,6 +79,8 @@ if you dont want to place anything just say you will place 0 cards and instead y
 
 Congratulations! You’re all set to play BS with your friends. Enjoy the excitement of bluffing, strategy, and fun interactions as you try to outsmart each other. Have a great time, and may the best bluffer win!
 
+Note: I am thinking about adding a GUI update for this and making it potentially multiply in the near future.
+
 
 
 
