@@ -9,6 +9,7 @@ Here are some images on my project
 
 ![image](https://github.com/user-attachments/assets/a076ea0b-dfde-4c54-968d-ad17ede46615)
 
+![image](https://github.com/user-attachments/assets/d5c89848-9366-4ea3-9414-dd2540c14779)
 
 
 To run this project, you need to download the file highlighted in yellow:
