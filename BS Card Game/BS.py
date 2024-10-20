@@ -118,7 +118,7 @@ while terminate != True:
 
         else:
             tok = False
-            while total_place >= 4:
+            while total_place > 4:
                 print("Ivalid number. Try again")
                 total_place = int(sys.stdin.readline().strip())
 
