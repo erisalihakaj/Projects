@@ -7,7 +7,7 @@ leveraging trends and patterns from the past data to inform its forecasts.
 
 Here are some images on my project
 
-
+![image](https://github.com/user-attachments/assets/a076ea0b-dfde-4c54-968d-ad17ede46615)
 
 
 
@@ -51,7 +51,6 @@ Note: Ensure you enter the exact ticker symbol; otherwise, the system will not b
 
 With this setup, you can easily access the stocks you're interested in, along with predictions for tomorrow's stock values.
 
-![image](https://github.com/user-attachments/assets/a076ea0b-dfde-4c54-968d-ad17ede46615)
 
 Update: Currently, the link used to scrape data for the prediction model is down for maintenance. Once it is back online, I will reintroduce the historical values scraped from the web. Until then, the charts and prediction model will rely on hard-coded values, which may lead to temporary inaccuracies in the AI model and graphs. Everything else should function correctly.
 
