@@ -1,0 +1,4 @@
+What is Bs?
+BS, also known as Cheat or I Doubt It, is a fast-paced card game that involves deception, strategy, and bluffing. Typically played with a standard deck of cards and suited for 3 to 10 players, the objective is to be the first to get rid of all your cards. Players take turns playing cards face down while announcing their value, but they can lie about the cards they are playing. Other players can challenge a claim by calling “BS” if they suspect deceit, prompting the player to reveal their cards. If the challenged player was truthful, the challenger must pick up the entire discard pile; if the player was lying, they must pick up the pile. The game continues until one player runs out of cards, creating a fun and competitive atmosphere that encourages cunning tactics and social interaction.
+
+This project I made features dynamic card management with robust input validation and error handling, ensuring smooth gameplay and user engagement
