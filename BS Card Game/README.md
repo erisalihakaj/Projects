@@ -71,7 +71,7 @@ as you can see she has more cards now
 
 ![image](https://github.com/user-attachments/assets/98f305a7-7b87-4d78-a8e7-4552197324a6)
 
-if you dont want to place anything just say you will place 0 cards and instead you will draw a card from the deck if there any in the deck
+if you dont want to place anything, just say you will place 0 cards and instead, you will draw a card from the deck if there any in the deck
 
 ![image](https://github.com/user-attachments/assets/93e70fb3-5eab-4940-9852-990535dcbcba)
 
